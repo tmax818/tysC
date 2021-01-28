@@ -66,9 +66,41 @@ TABLE NOT COMPLETE
 
 - used to create a name for an existing data type.
 - it creates a synonym
-- see lesson 11
+- see [lesson 11](../lesson11/notes.md)
 
 ## Initializing Variables
 
 - declaring a variable instructs the compiler to set aside storage space. That space could contain "garbage"
 - initializing puts a known value in the storage space.
+
+## Constants
+
+- Two types:
+  - Literal constants - typed into source code when needed.
+  - example:
+
+```c
+int count = 20;
+```
+
+  - Symbolic constants - represented by a name(symbol) in your program
+
+```c
+#define CONSTNAME literal
+
+#define PI 3.14159
+```
+
+### How a `#define` Works
+
+- instructions to the compiler: "in the source code, replace **CONSTNAME** with *literal*
+
+## Defining Constants with the `const` Keyword
+
+- This is the second way to define a symbolic constant
+- `const` is a modifier that can be applied to any variable declaration
+- example
+
+```c
+const int count = 100;
+```
