@@ -4,7 +4,7 @@
 
 - created at Bell Telephone Lab in 1972 by Dennis Ritchie
 - purpose was to design UNIX OSes
-- American National Standards Institute (ANSI) formed a committe in 1983 establish standard definition of C
+- American National Standards Institute (ANSI) formed a committee in 1983 establish standard definition of C
 - C came after B language
 
 ## Why Use C?
@@ -12,7 +12,7 @@
 - it's powerful and flexible. "What you can accomplish with C is limited only by your imagination"
 - it's popular
 - it's portable
-- it's a languag of few words
+- it's a language of few words
 - it's modular
 - C++ is a superset of C, C++ contains everything that C does.
 - carries over to Java, C++ and C#
@@ -39,7 +39,7 @@
 
 ### Creating the Source Code
 
-- *source code* - a series of statments or commands used to instruct the computer to perform your wanted tasks
+- *source code* - a series of statements or commands used to instruct the computer to perform your wanted tasks
 - example
 ~~~c
 printf("Hello, Mom!");
@@ -63,7 +63,7 @@ printf("Hello, Mom!");
 
 ## Linking to Create an Executable File
 
-- *library function* - functions that perfrom frequently needed tasks
+- *library function* - functions that perform frequently needed tasks
 - *executable* - the program can be run
 - *linking* - a linker links the object file with any library functions included in the source code.
 
@@ -90,12 +90,12 @@ printf("Hello, Mom!");
 ### Compilation Errors
 
 - occurs when the compiler finds something in the source code that it can't compile.
-- remove the simicolon and recompile
+- remove the semicolon and recompile
 - error line numbers are not always correct
 
 ### Linker Error Message
 
-- rare and result from mispelling library function names
+- rare and result from misspelling library function names
 
 ## Summary
 
