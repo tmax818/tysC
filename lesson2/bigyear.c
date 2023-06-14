@@ -1,4 +1,5 @@
 /* Program to calculate what year someone will turn a specific age*/
+
 #include <stdio.h>
 #define TARGET_AGE 88
 
@@ -8,12 +9,12 @@ int calcYear(int year1);
 
 int main(void)
 {
-    //Ask the user for the birht year
+    //Ask the user for the birth year
     printf("What year was the subject born? ");
     printf("Enter as a 4-digit year (YYYY): ");
     scanf(" %d", &year1);
 
-    //Calculate the future year and dispay it
+    //Calculate the future year and display it
     year2 = calcYear(year1);
 
     printf("Someone born in %d will be %d in %d.\n", year1, TARGET_AGE, year2);

@@ -26,7 +26,7 @@
 ### The Variable Definition
 
 - *variable* a name assigned to a location in memory used to store info
-- variable definiton informs the compiler of the variable's name and type
+- variable definition informs the compiler of the variable's name and type
   
 ### The Function Prototype
 
@@ -42,7 +42,7 @@
   - display output
   - do math
   - call functions
-  - read disk fiels
+  - read disk files
   - etc
 - one per line and end with a (;)
 
@@ -54,7 +54,7 @@
 
 - library function that reads data from keyboard and assigns it to a program variable
 
-#### the `return` Statment
+#### the `return` Statement
 
 - not much here
 
@@ -89,6 +89,10 @@
 
 ## Exercises
 
-- [ex02-02.c](ex02-02.c)
+- [exercise 1](small.c)
+- [exercise 2](ex02.c)
+- [exercise 3](ex03.c)
+- [exercise 4](ex04.c)
+- [exercise 5](ex05.c)
 
 

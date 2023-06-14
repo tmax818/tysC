@@ -105,3 +105,11 @@ printf("Hello, Mom!");
 
 ## Q & A
 
+
+## Exercises
+
+- [exercise 1](hello.c)
+- [exercise 2](ex2.c)
+- [exercise 3](ex3.c)
+- [exercise 4](ex4.c)
+
