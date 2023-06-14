@@ -14,7 +14,7 @@
 |The letter x|1|
 |The number 500|2|
 |The number 241.105|4|
-|The phrase Sams Teach Yourself C|21|
+|The phrase Sam's Teach Yourself C|21|
 |One typewritten page|~3,000|
 
 - RAM is organized sequentially
